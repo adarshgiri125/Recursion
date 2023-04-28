@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.json": "dart",
+    "vector": "cpp",
+    "iosfwd": "cpp"
+  }
+}
